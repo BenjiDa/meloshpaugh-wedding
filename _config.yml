@@ -17,7 +17,7 @@ title: Ann Margaret (the beautiful) and Ben's wedding
 email: benmelosh@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Ben Melosh and Ann Margaret Millspaugh wedding, June, 2018, Solomons Island, Maryland
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/meloshpaugh-wedding" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
