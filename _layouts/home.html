@@ -13,10 +13,11 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-
+      <button style="width:100%;border-radius:10px;background-color:#F9F6F6;">
         <h2 style="font-family:'Shadows into Light', cursive">
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
+      </button>
       </li>
     {% endfor %}
   </ul>
