@@ -1,10 +1,13 @@
 <header class="site-header" role="banner">
 
+<<<<<<< HEAD
 <img src="{{ "/assets/img/flowers.JPG" | prepend: site.baseurl| prepend: site.url }}">
+=======
+>>>>>>> master
 
 
   <div class="wrapper">
-    <a class="site-title" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
+    <a style="font-family:'Shadows into Light', cursive" class="site-title" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
 
     <nav class="site-nav">
       <span class="menu-icon">
@@ -18,12 +21,12 @@
       <div class="trigger">
         {% for my_page in site.pages %}
           {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          <a style="font-family:'Shadows into Light', cursive" class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
           {% endif %}
         {% endfor %}
       </div>
     </nav>
 
   </div>
-
+<img id="header-pic" style="height:500px;width:100%" src="{{ "/assets/img/mebenbodegabeachmin.jpg" | prepend: site.baseurl| prepend: site.url }}">
 </header>

@@ -5,14 +5,19 @@ layout: default
 <div class="home">
   
   {{ content }}
+  <h1 style="font-family:'Shadows into Light', cursive">Welcome to our wedding site!</h1>
+  <hr>
+  <br>
+
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-
-        <h2>
+      <button style="width:100%;border-radius:10px;background-color:#F9F6F6;">
+        <h2 style="font-family:'Shadows into Light', cursive">
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
+      </button>
       </li>
     {% endfor %}
   </ul>
