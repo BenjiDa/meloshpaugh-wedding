@@ -8,7 +8,7 @@ categories: jekyll update
 <h3>Saturday, June 16</h3>
 <hr style="width:50%">
 <br>
-<h4><i>4:00 PM</i></h4>
+<h4><i>4:30 PM</i></h4>
 <h4 class="schedule">Ceremony</h4>
 <h4 ><i>5:00 PM</i></h4> 
 <h4 class="schedule">Hors D'heurves</h4>
