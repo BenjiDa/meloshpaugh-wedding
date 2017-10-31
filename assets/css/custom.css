@@ -5,15 +5,11 @@ body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
-<<<<<<< HEAD
   padding: 0; }
-=======
-  padding: 0; 
-}
+
 h1, h2, h3, h4, h5, h6{
   font-family:'Shadows into Light', cursive;
 }
->>>>>>> master
 
 /**
  * Basic styling
@@ -36,12 +32,8 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
-<<<<<<< HEAD
   margin-bottom: 15px; }
-=======
-  margin-bottom: 15px; 
-}
->>>>>>> master
+
 
 /**
  * Images
@@ -85,11 +77,7 @@ a {
     color: #1756a9; }
   a:hover {
     color: #111;
-<<<<<<< HEAD
-    text-decoration: underline; }
-=======
     text-decoration: none; }
->>>>>>> master
 
 /**
  * Blockquotes
@@ -125,45 +113,6 @@ pre {
     padding-right: 0;
     padding-left: 0; }
 
-<<<<<<< HEAD
-.clue {
-  text-align: center; }
-
-#catherine {
-  background-image: url("../img/cath.jpg");
-  height: 1000px; }
-  @media screen and (max-width: 500px) {
-    #catherine {
-      background-image: url("../img/cath-mobile.jpg"); } }
-
-#birthday {
-  color: white;
-  font-size: 40px;
-  padding: 10px;
-  text-align: center; }
-
-button {
-  background-color: #2a7ae2;
-  font-size: 20px;
-  border: none;
-  border-radius: 5px;
-  margin: 5px 0px 5px 0px;
-  color: white;
-  padding: 20px;
-  width: 100%; }
-
-a.rules {
-  color: white;
-  text-decoration: none; }
-
-.clue-pic{
-  width:500px;
-  border-radius:15px;
-  margin: 0 auto;
-}
-
-=======
->>>>>>> master
 /**
  * Wrapper
  */
@@ -179,12 +128,8 @@ a.rules {
       max-width: -webkit-calc(800px - (30px));
       max-width: calc(800px - (30px));
       padding-right: 15px;
-<<<<<<< HEAD
       padding-left: 15px; } }
-=======
-      padding-left: 15px; } 
-    }
->>>>>>> master
+
 
 /**
  * Clearfix
@@ -199,11 +144,6 @@ a.rules {
  */
 .icon > svg {
   display: inline-block;
-<<<<<<< HEAD
-  width: 16px;
-  height: 16px;
-=======
->>>>>>> master
   vertical-align: middle; }
   .icon > svg path {
     fill: #828282; }
@@ -238,13 +178,9 @@ a.rules {
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
   @media screen and (max-width: 600px) {
-<<<<<<< HEAD
-=======
     img{
       width:50%;
     }
-
->>>>>>> master
     .site-nav {
       position: absolute;
       top: 9px;
@@ -261,16 +197,8 @@ a.rules {
         line-height: 0;
         padding-top: 10px;
         text-align: center; }
-<<<<<<< HEAD
-        .site-nav .menu-icon > svg {
-          width: 18px;
-          height: 15px; }
-          .site-nav .menu-icon > svg path {
-            fill: #424242; }
-=======
         .site-nav .menu-icon > svg path {
           fill: #424242; }
->>>>>>> master
       .site-nav .trigger {
         clear: both;
         display: none; }
@@ -340,11 +268,7 @@ a.rules {
  * Page content
  */
 .page-content {
-<<<<<<< HEAD
   padding: 30px 0; }
-=======
-  padding: 30px 0;}
->>>>>>> master
 
 .page-heading {
   font-size: 20px; }
@@ -390,23 +314,16 @@ a.rules {
       .post-content h3 {
         font-size: 22px; } }
   .post-content h4 {
-<<<<<<< HEAD
-    font-size: 20px; }
-=======
     font-size: 20px; 
     margin-left:20px;}
->>>>>>> master
     @media screen and (max-width: 800px) {
       .post-content h4 {
         font-size: 18px; } }
 
-<<<<<<< HEAD
-=======
 h4.schedule{
   font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-left:40px;
 }
->>>>>>> master
 /**
  * Syntax highlighting styles
  */
@@ -546,8 +463,5 @@ h4.schedule{
   .highlight .vi {
     color: #008080; }
   .highlight .il {
-<<<<<<< HEAD
     color: #099; }
-=======
-    color: #099; }
->>>>>>> master
+
