@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "The Venue & Shuttle Service"
+date:   2017-01-31 18:29:05 -0800
+categories: jekyll update
+---
+
+<h3>Glascock Farm</h3>
+<hr>
+<br>
+<img src="{{ "/assets/img/farm.jpg" | prepend: site.baseurl| prepend: site.url }}">
+
+<p>Page & Beth Wyrough have graciously offered to host the wedding on their farm in Solomon's Island, Maryland. Glascock Farm has been an active vegetable farm since 1920, located at the mouth of the Paxtuent River. The wedding ceremony and reception will both be at this location.</p>
+<br>
+
+<h3>Shuttles</h3>
+<hr>
+<br>
+<p>Shuttles will be available from the Holiday Inn Hotel at 3:30 PM and the Dovetail Inn at 3:00 PM.</p>
