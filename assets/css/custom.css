@@ -11,6 +11,7 @@ h1, h2, h3, h4, h5, h6{
   font-family:'Shadows into Light', cursive;
 }
 
+
 /**
  * Basic styling
  */
@@ -155,7 +156,8 @@ pre {
   border-top: 5px solid #424242;
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
-  position: relative; }
+  position: relative; 
+}
 
 .site-title {
   font-size: 26px;
@@ -324,6 +326,30 @@ pre {
 h4.schedule{
   font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-left:40px;
+  font-family:'Roboto Condensed';
+}
+
+p{
+  font-family:'Roboto Condensed';
+}
+
+img#header-pic{
+  height:500px;
+  width:100%;}
+  @media screen and (max-width: 800px) {
+    img#header-pic {
+       background:url('../img/farm.jpg');
+       clip: rect(100px,100px,100px,400px);
+      } 
+}
+
+p#photo-loc{
+  margin-top:-30px;
+  margin-left:10px;
+  float:left;
+  z-index: 1;
+  color:white;
+  position:absolute;
 }
 /**
  * Syntax highlighting styles

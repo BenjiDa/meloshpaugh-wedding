@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wedding Schedule"
-date:   2017-01-20 18:29:05 -0800
+date:   2017-01-31 18:29:05 -0800
 categories: jekyll update
 ---
 
