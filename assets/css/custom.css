@@ -338,8 +338,7 @@ img#header-pic{
   width:100%;}
   @media screen and (max-width: 800px) {
     img#header-pic {
-       background:url('../img/farm.jpg');
-       clip: rect(100px,100px,100px,400px);
+       height:100px;
       } 
 }
 
