@@ -4,7 +4,7 @@ title: Welcome
 permalink: /welcome/
 ---
 
-<p>Welcome</p>
+<p>Our story</p>
 
 <p> It was just another evening in D.C. when Ann Margaret went over to her friend Yael's house for another dinner party. Little did she know that Ben was in town visiting his friend Brannon (Yael's house-mate). After dinner, music on the porch and many happy moments, Ann Margaret lent Ben her bike-share key (aka Bixi Key), Ben knew she was special. After a live concert at the local farmers market, they went sailing on the Potomac River and Ben was very impressed that she could steer the boat with her foot while having a casual conversation! Next thing you know the two new friends were having coffee in Virginia, they said good-bye and went their seperate ways.</p>
 
