@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Welcome
+permalink: /welcome/
 ---
 
-<p>Our story!</p>
+<p>Welcome + our story!</p>
