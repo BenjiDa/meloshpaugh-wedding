@@ -181,7 +181,7 @@ pre {
       margin-right: 20px; }
   @media screen and (max-width: 600px) {
     img{
-      width:50%;
+      width:100%;
     }
 
     .site-nav {
