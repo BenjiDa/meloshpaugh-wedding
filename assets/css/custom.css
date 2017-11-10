@@ -342,13 +342,17 @@ img#header-pic{
       } 
 }
 
-p#photo-loc{
+p.photo-loc{
   margin-top:-30px;
   margin-left:10px;
   float:left;
   z-index: 1;
   color:white;
   position:absolute;
+}
+
+img.gallery-resize{
+  width: 50%;
 }
 /**
  * Syntax highlighting styles
