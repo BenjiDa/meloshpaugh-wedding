@@ -16,4 +16,4 @@ categories: jekyll update
 <h3>Shuttles</h3>
 <hr>
 <br>
-<p>Shuttles will be available from the Holiday Inn Hotel at 3:30 PM and the Dovetail Inn at 3:00 PM.</p>
+<p>Shuttles will be available from the Holiday Inn Hotel and the Quality Inn. Most accommodations are within walking distance to the venue.</p>
