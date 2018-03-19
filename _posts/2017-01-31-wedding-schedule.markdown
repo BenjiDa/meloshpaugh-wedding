@@ -5,6 +5,14 @@ date:   2017-01-31 18:29:05 -0800
 categories: jekyll update
 ---
 
+<br>
+<h3>Saturday, June 15</h3>
+<hr style="width:50%">
+<br>
+<h4><i>9:00 PM</i></h4>
+<h4 class="schedule">Join us for drinks at the Solomon Island Yatch Club</h4>
+
+<br>
 <h3>Saturday, June 16</h3>
 <hr style="width:50%">
 <br>
