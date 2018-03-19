@@ -179,7 +179,7 @@ pre {
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 1600px) {
     img{
       width:100%;
     }
@@ -343,7 +343,7 @@ img#header-pic{
 }
 
 p.photo-loc{
-  margin-top:-30px;
+  margin-top:-50px;
   margin-left:10px;
   float:left;
   z-index: 1;
@@ -352,7 +352,7 @@ p.photo-loc{
 }
 
 img.gallery-resize{
-  width: 50%;
+  width: 100%;
 }
 /**
  * Syntax highlighting styles
