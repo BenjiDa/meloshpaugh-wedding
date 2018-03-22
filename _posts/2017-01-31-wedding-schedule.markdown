@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 <br>
-<h3>Saturday, June 15</h3>
+<h3>Friday, June 15</h3>
 <hr style="width:50%">
 <br>
 <h4><i>9:00 PM</i></h4>
